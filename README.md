@@ -3,6 +3,39 @@
 <h3> GHC 2023| MS Information Systems | Northeastern University | Ex-Accenture </h3>
 
 ---
+<h2> About Me  </h2>
+
+<p align="center">
+<img src="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984.gif" width ="400" height ="400" />
+</p>
+
+🎓 Information Systems graduate from Northeastern University
+
+
+💬 Exceptional communication skills
+
+🤔 Penchant for divergent thinking
+
+👁️ Keen eye for imaginative design
+
+📊 Expertise in data analysis and database management
+
+💼 Proficient in MySQL, Oracle, SAP HANA, and Neo4J
+
+📈 Skilled in Tableau and PowerBI for data visualization
+
+🌟 Passionate and driven to take on new challenges
+
+📜 Certifications in Tableau, Python, Alteryx, and data science
+
+📚 Dedicated to continuous professional development
+
+📊 Committed to data-driven decision-making for organizational performance improvement
+
+😄 Pronouns: She/Her/Hers
+
+
+---
 
 <h2> Lets Connect  </h2>
 
@@ -12,19 +45,22 @@
 </a>
 
 ---
-<p align="center">
-<img src="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984.gif" width ="400" height ="400" />
-</p>
 
----
-<h2> About Me  </h2>
-I am a highly motivated Information Systems graduate from Northeastern University. Alongside my technical prowess, I possess exceptional communication skills, a penchant for divergent thinking, and a keen eye for imaginative design. With a strong focus on leveraging data to drive strategic insights and deliver impactful solutions, my expertise lies in data analysis and database management. I am well-versed in working with prominent databases such as MySQL, Oracle, SAP HANA, and Neo4J, while also proficient in utilizing cutting-edge visualization tools like Tableau and PowerBI. Continually seeking new challenges to enhance my skill set, I am confident that my passion, drive, and versatile skill set will make valuable contributions to any collaborative team. I have certifications in Tableau, Python, Alteryx and data science, and I'm dedicated to continuing my professional development and using data-driven decision-making to advance organizational performance. 
-
----
 
 <h2> 🚀 &nbsp; Tools</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width ="30" height ="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  width ="30" height ="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width ="30" height ="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" width ="30" height ="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width ="30" height ="30" />  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width ="30" height ="30" />  
+<a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width ="30" height ="30" /> </a> 
+<a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width ="30" height ="30" /> </a> 
+<a href="https://www.atlassian.com/software/jira"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  width ="30" height ="30" /> </a> 
+<a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width ="30" height ="30"/></a>
+<a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width ="30" height ="30" /></a>
+<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width ="30" height ="30" /></a>
+<a href="https://neo4j.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" width ="30" height ="30" /></a>
+<a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width ="30" height ="30" /></a>
+<a href="https://www.oracle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width ="30" height ="30" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width ="30" height ="30" /></a>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width ="30" height ="30" /> </a>
+<a href="https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width ="30" height ="30" /></a>  
 
 ---
 
