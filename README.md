@@ -41,8 +41,13 @@
 
 
 <a href="https://www.linkedin.com/in/gauribhale/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="30" height ="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height ="50" />
 </a>
+
+<a href="https://public.tableau.com/app/profile/gauri.narendra.bhale">
+<img src="https://public.tableau.com/s/sites/default/files/media/tableautips_30.png" width ="80" height ="60" />
+</a>
+
 
 
 ---
@@ -61,7 +66,9 @@
 <a href="https://www.oracle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width ="30" height ="30" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width ="30" height ="30" /></a>
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width ="30" height ="30" /> </a>
-<a href="https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width ="30" height ="30" /></a>  
+<a href="https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width ="30" height ="30" /></a> 
+<a href="https://www.selenium.dev/"><img src="https://github.com/OscarValerock/Power-BI-Icons/blob/master/Icons%20PNG/Power%20BI%20Icon.png" width ="30" height ="30" /></a>
+<a href="https://www.selenium.dev/"><img src="http://www.thermodial.ie/wp-content/uploads/2012/07/air-conditioning-symbol_small.png" width ="30" height ="30" /></a>
 
 ---
 
