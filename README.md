@@ -28,6 +28,10 @@
 
 📜 Certifications in Tableau, Python, Alteryx, and data science
 
+📊 Check out my data viz on <a href="https://public.tableau.com/app/profile/gauri.narendra.bhale">
+<img src="https://public.tableau.com/s/sites/default/files/media/tableautips_30.png" width ="70" height ="50" />
+</a>
+
 📚 Dedicated to continuous professional development
 
 📊 Committed to data-driven decision-making for organizational performance improvement
@@ -41,13 +45,8 @@
 
 
 <a href="https://www.linkedin.com/in/gauribhale/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height ="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="30" height ="30" />
 </a>
-
-<a href="https://public.tableau.com/app/profile/gauri.narendra.bhale">
-<img src="https://public.tableau.com/s/sites/default/files/media/tableautips_30.png" width ="80" height ="60" />
-</a>
-
 
 
 ---
