@@ -44,6 +44,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="30" height ="30" />
 </a>
 
+<a href="https://teams.microsoft.com/_#/conversations/48:notes?ctx=chat">
+<img src="https://docs.microsoft.com/media/logos/logo_MSTeams.svg" width ="30" height ="30" />
+</a>
+
 ---
 
 
