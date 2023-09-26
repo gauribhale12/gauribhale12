@@ -36,7 +36,8 @@
 <a href="https://university.atlassian.com/student/award/F2UjjwmuQREwxMiRysR66SdC"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/34252/large/uni-credential-atlassianuniversitybadge-generic.png?1649117345&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8zNDI1Mi9sYXJnZS91bmktY3JlZGVudGlhbC1hdGxhc3NpYW51bml2ZXJzaXR5YmFkZ2UtZ2VuZXJpYy5wbmc~MTY0OTExNzM0NSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5NTM5MTQwN319fV19&Signature=DYWMeYUUsb~yfxEkSwv8O8~XQtC4jMovdI~duez~ghgn9IrjG4pdoYD3QISFF1uhE8foXg377l2xkZNH74PbWcrZM~HbUC3-WxiUdhz8QRB~QdSS8s-ysa3KbAnD73OcZB7aqkNmanUHrplzm2P0MFDi0lQ8hdMdYtQnFCTccpbBtR4i6Z9lQlu3xOw2sDsJGzG2lJHNCUcbChiNsMPeymZhb-9IIeZuCqBly27EVpbgvUfEeubJaTJiXn0SriBbTs6WwrCMFxZSlKgceps1FeaKXCQdCvzcP0tg7ygooNxyyx~TwycRnmuLvGbD8dsLanaKGx3nV1x~q4Fb5wQ1fw__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/d2c30925-b369-4eac-93b2-4f02ac98a1f0/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/f0c1da03-6a7d-4ea9-a80e-14bc4218b0fd/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" width ="30" height ="30" /></a>
-<a href="https://university.atlassian.com/student/award/mcJQRc8FRT8M3zRwWezmBGWm"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5NTM5ODY4NX19fV19&Signature=Skfl-W5jaQYRw5bEPxMMI2vpXaV-V0Z0ACk~dbCf-HSgywipxYroyf5DJaAvSepeWkk2g3PvPBy2GPIxByC3Wqm3eHyXbMKEpdsJPtJj-eMly0P2mJ6Fa5eydrgHACjx5LtVdG4XfsQJNNNkaLePySn3E3DMHtuSO-62PWJCG1WWDJNNgHOR081vQXNmHRPedojl2Kb~W-iB43zjbEejre5IhAqSPlHepb~USemOu0Z8X-7DlRt7OJOP34JU~esz7~cY1CCyCS7jc4JhkUexqk1jyZjQ7UYXStgPatjHPhhAxI~htz6r5S0Mnp~hKV~mddREw4tGd7AEEHB0YctIuQ__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
+<a href="https://www.credly.com/badges/dbc6acd2-f223-42da-ab2e-3d1b45214fbe/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width ="30" height ="30" /></a>
+
 
 📊 Check out my data viz on <a href="https://public.tableau.com/app/profile/gauri.narendra.bhale">
 <img src="https://public.tableau.com/s/sites/default/files/media/tableautips_30.png" width ="70" height ="50" />
@@ -53,14 +54,14 @@
 <h3> <a href="https://www.linkedin.com/in/gauribhale/">
 <img src="https://seeklogo.com/images/L/let-s-connect-logo-6387173BC6-seeklogo.com.png" width ="100" height ="30" />
 </a>  </h3> 
-<a href="https://www.linkedin.com/in/gauribhale/">
+<a href="https://www.linkedin.com/in/gauribhale/"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="30" height ="30" />
 </a>
-
+&nbsp;
 <a href="https://bhaleg.wixsite.com/gauribhale">
 <img src="https://png.pngitem.com/pimgs/s/10-100273_transparent-background-website-icon-hd-png-download.png" width ="30" height ="30" />
 </a>     
-
+&nbsp;
 <a href="mailto:bhale.g@northeastern.edu">
 <img src="https://png.pngitem.com/pimgs/s/403-4038130_outlook-2010-hd-png-download.png" width ="30" height ="30" />
 </a>
