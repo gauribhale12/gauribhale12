@@ -33,7 +33,7 @@
 🌟 Passionate and driven to take on new challenges
 
 📜 Certifications in 
-<a href="https://university.atlassian.com/student/award/F2UjjwmuQREwxMiRysR66SdC"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/34252/large/uni-credential-atlassianuniversitybadge-generic.png?1649117345&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8zNDI1Mi9sYXJnZS91bmktY3JlZGVudGlhbC1hdGxhc3NpYW51bml2ZXJzaXR5YmFkZ2UtZ2VuZXJpYy5wbmc~MTY0OTExNzM0NSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5ODMzNjU0MX19fV19&Signature=e0dW7tQ0Rq9-1ytGhZd6qzSmVrAJWWB53zxdyMIfOEy35wk6YpSkBwR3VAPoLPPihwa6m9T~ivKdx3MLr6SLF2B6WAfSbV54gv9tZV4pDboiKiG6Ecy~NMJfn2r5BdzyYMpOPA9d647miRbeYPcfeH~GFoaP6OoHZH491Yuq1liB23m9Kh~R6dWoVlsJsQK2Lx-iE6D8fUlTeuK28CVPBiV6iWdLZXD~rvt2odsY9gHD-38xdio1FgQbJrZ09E4Rh2e5cHuX2IJoog-4g2LrupqcS7UEAQWjtGEla23hHYnnHkZFleERDNSrtl5RVI4ynq2xbaZ2Z1dHwPjGwG8D7g__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
+<a href="https://university.atlassian.com/student/award/mcJQRc8FRT8M3zRwWezmBGWm"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5ODM0MDQzMX19fV19&Signature=OW6h6BL6ucdTTDGEla-0Hwl8-U8uz~lhQ~dOs1RIA5A9VZbopworLMVGlIipTyLDUf9VxvkzLoYXIRcFJypUZ5mOQJE7b4dSwOX4SxOAj0czhm7WIjYopfAngEVuU6sZctOcnBHI4OKZ4SUae5wHWXsAVjsIzjvpVoDUMivWNOlNhxBnX9XeqbfidZUyjbzwrG9sOfvM5VW~457jnCZA75cLdeZWbXaLQDv1zZOEnlPcV-X~mZaNpMXFbvUM-RgB3XnoYld-YgXyTSKIpYlpGSMVfC-MBeSx4fMyWdDWGXiagwNBY9PTXdqiIdy2Ntb42ohFxNrW8eFfvd~nr~utUA__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/d2c30925-b369-4eac-93b2-4f02ac98a1f0/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/f0c1da03-6a7d-4ea9-a80e-14bc4218b0fd/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/dbc6acd2-f223-42da-ab2e-3d1b45214fbe/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width ="30" height ="30" /></a>
@@ -56,12 +56,10 @@
 </a>  </h3> 
 <a href="https://www.linkedin.com/in/gauribhale/"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="30" height ="30" />
-</a>
-&nbsp;
+</a> &nbsp;
 <a href="https://bhaleg.wixsite.com/gauribhale">
 <img src="https://png.pngitem.com/pimgs/s/10-100273_transparent-background-website-icon-hd-png-download.png" width ="30" height ="30" />
-</a>     
-&nbsp;
+</a> &nbsp;
 <a href="mailto:bhale.g@northeastern.edu">
 <img src="https://png.pngitem.com/pimgs/s/403-4038130_outlook-2010-hd-png-download.png" width ="30" height ="30" />
 </a>
