@@ -34,14 +34,14 @@
 🌟 Passionate and driven to take on new challenges
 
 📜 Certifications in 
-<a href="https://university.atlassian.com/student/award/mcJQRc8FRT8M3zRwWezmBGWm"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5ODM0MDQzMX19fV19&Signature=OW6h6BL6ucdTTDGEla-0Hwl8-U8uz~lhQ~dOs1RIA5A9VZbopworLMVGlIipTyLDUf9VxvkzLoYXIRcFJypUZ5mOQJE7b4dSwOX4SxOAj0czhm7WIjYopfAngEVuU6sZctOcnBHI4OKZ4SUae5wHWXsAVjsIzjvpVoDUMivWNOlNhxBnX9XeqbfidZUyjbzwrG9sOfvM5VW~457jnCZA75cLdeZWbXaLQDv1zZOEnlPcV-X~mZaNpMXFbvUM-RgB3XnoYld-YgXyTSKIpYlpGSMVfC-MBeSx4fMyWdDWGXiagwNBY9PTXdqiIdy2Ntb42ohFxNrW8eFfvd~nr~utUA__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
+<a href="https://university.atlassian.com/student/award/mcJQRc8FRT8M3zRwWezmBGWm"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNDgyMDA5NX19fV19&Signature=GNOxIHU9CWZZp~UBcZdyW4YnTLbXSRbjAIkwlGEHEimjqyY-nT9fhLO3bfFEGUS~w2L5NizA0M3~IpMfvKWC8JnhzEV2N3NaUDawLtf8gJKm2D3ko6CprDwtD74u7RvF7xlPvFYaKdxUJiQdX7l~m~TEKFprygagmwTuP1ETERVeUxuWn5UQXBhJdqbS1FUMrXS8NYmvYz2KjuJlNwhujVjhbnO4oCVOUtJeOlTZArbBejZWcQT01CanEc55bcnZqjca1ym7mJ-vRbdTvOaWAM1ZVrE~cgewF-mAK4ZfqbjR0aRwN9lis8ArmkM4G-x84EZ-0IbKi~Yx6kGDRnSrXg__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/d2c30925-b369-4eac-93b2-4f02ac98a1f0/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/f0c1da03-6a7d-4ea9-a80e-14bc4218b0fd/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" width ="30" height ="30" /></a>
 <a href="https://www.credly.com/badges/dbc6acd2-f223-42da-ab2e-3d1b45214fbe/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width ="30" height ="30" /></a>
 
 
 📊 Check out my data viz on <a href="https://public.tableau.com/app/profile/gauri.narendra.bhale">
-<img src="https://public.tableau.com/s/sites/default/files/media/tableautips_30.png" width ="70" height ="50" />
+<img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" width ="70" height ="70" />
 </a>
 
 📚 Dedicated to continuous professional development
