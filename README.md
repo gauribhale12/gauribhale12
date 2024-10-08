@@ -1,13 +1,13 @@
 ###  <h1> <p align="center"> Hi there 👋, I am Gauri Narendra Bhale </p> </h1> 
 
-<h3> 
+<!-- <h3> 
 <a href="https://www.northeastern.edu/"> <img src="https://i.pinimg.com/originals/08/bd/47/08bd47b365a7ad4ed868352014ecbd48.png" width ="40" height ="40" /> </a> Data Analyst|
 <a href="https://ghc.anitab.org/"> <img src="https://pbs.twimg.com/profile_images/1628823219951091715/8cT_6oKE_400x400.jpg" width ="40" height ="40" /> </a> GHC 2023|
 <img src="https://img.freepik.com/premium-vector/graduate-student-icon-graduation-gown-female-student_423491-2.jpg?w=2000" width ="40" height ="40" /> MS Information Systems|
 <a href="https://www.northeastern.edu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Northeastern_seal.svg/1200px-Northeastern_seal.svg.png" width ="40" height ="40" /> </a> Northeastern University|
 <a href="https://www.accenture.com/us-en"><img src="https://toppng.com/uploads/preview/accenture-logo-transparent-accenture-greater-than-logo-11562971252rdqqagrmhw.png" width ="40" height ="40" /> Ex-Accenture </a>
 </h3>
-
+-->
 ---
 <h3>  <a href="https://bhaleg.wixsite.com/gauribhale/about-me"><img src="https://www.clker.com/cliparts/0/e/r/N/8/l/about-me-cloud-md.png" width ="100" height ="100" /> </a> </h3>
 <p align="center">
